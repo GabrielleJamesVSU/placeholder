@@ -9,7 +9,7 @@ public class BasketballPlayer {
 	/**
 	 * The name of the basketball player.
 	 */
-	private String name;
+	private String playerName;
 	/**
 	 * The number of free throws attempted.
 	 */
